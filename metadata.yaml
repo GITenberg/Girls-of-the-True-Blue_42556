@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42556#Girls-of-the-True-Blue
 gutenberg_issued: '2013-04-18'
 gutenberg_type: Text
 identifiers:
